@@ -14,3 +14,8 @@ TEST
 1. THREE
 
 > Quoted text
+
+'''
+for a from d
+  do
+'''
