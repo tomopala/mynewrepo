@@ -15,7 +15,7 @@ TEST
 
 > Quoted text
 
-'''
+```
 for a from d
   do
-'''
+```
