@@ -6,3 +6,5 @@ _Here is an example **italic**_
 TEST
 
 ## HEADER2
+
+![Link an image.](/newrepo/my20221111_233432.jpg)
