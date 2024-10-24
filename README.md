@@ -7,4 +7,4 @@ TEST
 
 ## HEADER2
 
-![Link an image.](/newrepo/my20221111_233432.jpg)
+![Link an image.](/mynewrepo/my20221111_233432.jpg)
